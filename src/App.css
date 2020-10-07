@@ -1,0 +1,27 @@
+.App {
+  background: #d0bdf4;
+  height: 100vh;
+}
+.App label {
+  color: black;
+  padding-top: 10px;
+}
+
+.NavbarText {
+  list-style-type: none;
+}
+
+.Navbar {
+  background-color: #494d5f;
+}
+
+.navbar-light .navbar-brand {
+  color: #ffffff !important;
+}
+.navbar-light .navbar-text a {
+  color: #ffffff !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
